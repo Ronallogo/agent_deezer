@@ -1,0 +1,8 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+    "deezer_agent": "./deezer_agent/agent.py:agent",
+    "deezer_agent_react": "./agent_studio.py:agent"
+  },
+  "env": ".env"
+}
